@@ -8,6 +8,7 @@
 
 body{
     background-image: linear-gradient(to right,#451EA3,#693ecc);
+    width: 100%;
 }
 p{
     text-align: justify;
